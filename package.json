@@ -1,7 +1,7 @@
 {
   "name": "jsun",
   "version": "0.1.0",
-  "description": "Error catching JSON methods",
+  "description": "Error catching JSON methods. Hides away the try/catch madness for parsing strings and stringifying JSON objects.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
