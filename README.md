@@ -2,7 +2,7 @@
 
 Error catching JSON methods.
 
-Hides away the try/catch madness for parsing strings and stringify JSON objects.
+Hides away the try/catch madness for parsing strings and stringifying JSON objects.
 
 ## Install
 
