@@ -1,0 +1,29 @@
+{
+  "name": "jsun",
+  "version": "0.1.0",
+  "description": "Error catching JSON methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorgan/jsun.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "stringify",
+    "error",
+    "try",
+    "catch"
+  ],
+  "author": "Scott COrgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottcorgan/jsun/issues"
+  },
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
